@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="hi">Hello!</string>
+    <string name="nandafw">Nandaaaw!</string>
+    <string name="kidzy">Cari di Kidzy</string>
+    <string name="subject">Subject</string>
+    <string name="claas">Class</string>
+    <string name="teacher">Teacher</string>
+    <string name="test">Test and Exam</string>
+    <string name="pay">JOIN</string>
+    <string name="titleevent">School Birthday Party</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+</resources>
